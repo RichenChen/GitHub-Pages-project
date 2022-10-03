@@ -1,2 +1,2 @@
 Richen's User Page.
-My favirite language is Java.
+My favirite language is Java
