@@ -1,2 +1,1 @@
-# GitHub-Pages-project
-GitHub Pages project
+Richen's User Page
